@@ -1,0 +1,3 @@
+-- TODO(phase-1): users table, screenshots table (device_asset_id, content_hash,
+-- description, category, ocr_text, keywords, embedding vector, indexing_status),
+-- and `CREATE EXTENSION IF NOT EXISTS vector;`
